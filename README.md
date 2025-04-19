@@ -10,13 +10,13 @@ Este repositório contém exercícios práticos para aprender e praticar Python.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/python-curso.git
+   git clone https://github.com/mtslipe/python-curso.git
    ```
 2. Navegue até a pasta de exercícios:
    ```bash
    cd python-curso/exercicios
    ```
-3. Resolva os exercícios e teste suas soluções.
+3. Resolva os exercícios e teste diferentes soluções.
 
 ## Contribuição
 
@@ -24,4 +24,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE). © [Ano] [Seu Nome]
+Este projeto está licenciado sob a [MIT License](LICENSE). © 2025 Felipe Maximiano

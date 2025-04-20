@@ -1,4 +1,4 @@
-# Exercício Python #009 - Tabuada - basicao
+# Exercício Python #009 - Tabuada
 
 num = int(input("Digite um numero que voce deseja ver a tabuada: \n"))
 

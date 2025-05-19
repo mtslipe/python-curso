@@ -1,4 +1,4 @@
-# Python Curso - Exercícios
+# Python - Exercícios
 
 Este repositório contém exercícios práticos para aprender e praticar Python. Os exercícios estão organizados para ajudar no desenvolvimento de habilidades de programação, desde conceitos básicos até tópicos mais avançados.
 
